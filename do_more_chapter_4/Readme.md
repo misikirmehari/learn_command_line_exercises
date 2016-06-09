@@ -7,11 +7,10 @@
 
 ### Make 20 other directories inside the temp directory in various levels. Go look at them with a graphical file browser.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `mkdir`
 
 ### Make a directory with a space in the name by putting quotes around it
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `mkdir "student file"` 
 
 
 
