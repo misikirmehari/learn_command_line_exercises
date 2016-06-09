@@ -5,29 +5,30 @@
 
 ### cd to the joe directory with one command.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `cd temp/stuff/things/frank/joe/`
 
 ### cd back to temp with one command, but not further above that.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `cd ../../../..`
 
 ### Find out how to cd to your "home directory" with one command.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `cd ~`
 
 ### cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `cd Documents/` | `using CLI`
+   `Finder/Documents/` | `using Finder`
  
 ### cd to your Downloads directory, then find it with your file browser.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `cd Downloads/` | `using CLI `
+   `Finder/ Downloads/`| `using Finder`
 
 ### Find another directory with your file browser, then cd to it.
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `cd ~/workspace/davinci_coders_t2_2016/homework/` |`using CLI`
+   `Finder/davinci_coders_t2_2016/homework` |`using Finder`
+ 
 
 ### Remember when you put quotes around a directory with spaces in it? You can do that with any command. For example, if you have a directory I Have Fun, then you can do: cd "I Have Fun"
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+   `cd "test folder"` 
