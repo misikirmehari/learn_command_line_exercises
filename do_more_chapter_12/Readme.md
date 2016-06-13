@@ -5,20 +5,21 @@
 
 ### Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
 
-    You can use RubyMine for this task.
+    
 
 ### Copy it to your temp directory again so you can look at it.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `cp ex12.txt ~/workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises/temp/`
     
 ### Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-
+   `less ex12.txt`
+   `more ex12.txt`
+   
 ### Look at some of the empty files you created too.
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `less haha.txt` : opens an empty window
+   `more haha.txt` : Doen't display anything
     
 ### The cp command will overwrite files that already exist so be careful copying files around.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+  
