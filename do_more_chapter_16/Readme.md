@@ -5,4 +5,7 @@
 
 ### Explain what the * symbol does in your own words
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `* (wildcard) is used to search or find files given a parameter or 
+   file type. ex. ls *.txt : lists all files that are of text file 
+   format
+   `
