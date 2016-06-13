@@ -1,0 +1,15 @@
+/Users/misikirmehari/.rvm/src/ruby-2.3.1/sample/trick2013/mame/music-box.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/adding_tests_to_homework.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/agile_intro.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/build_your_brand.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/git102.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/git_101_and_vimtutor.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/homework_review_questions.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/learn_command_line.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/lrthw_exercises.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/mentoring_pair_programming.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/numbers_letters_and_variables.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/slack_and_rescuetime.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/toolbelt_intro.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/tracker_intro_making_it_stick.mp4
+/Users/misikirmehari/BitTorrent Sync/DaVinci_Videos_T2_2016/in_class/wordpress_intro.mp4
