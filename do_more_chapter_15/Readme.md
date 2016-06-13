@@ -7,16 +7,19 @@
 
 ### Explain what the | symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+  `takes the output from the command on the left , and "pipes" it to 
+  the command on the right`
     
 ### Explain what the < symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+   `send the input from the file on the right to the program 
+   on the left`
 ### Explain what the > symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `takes the output of the command on the left, then writes it to the
+   file on the right`
     
 ### Explain what the >> symbol does
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `takes the output of the command on the left , then appends it 
+    to the file on the right`
