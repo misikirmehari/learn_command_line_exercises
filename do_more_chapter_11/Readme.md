@@ -5,5 +5,8 @@
 
 ### Move a file in the newplace directory to another directory then move it back
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+   `mv haha.txt temp2/`
+   `cd temp2/`
+   `ls`
+   `haha.txt`
+   `mv haha.txt ~/workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises/temp/`
