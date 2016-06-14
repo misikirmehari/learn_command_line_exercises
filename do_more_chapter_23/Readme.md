@@ -10,9 +10,9 @@
 
 | Command  | What the command does                  |
 | -------- |:--------------------------------------:|
-| xargs    |                                        |
-| sudo     |                                        |
-| chmod    |                                        |
-| chown    |                                        |
+| xargs    | Execute Arguments                      |
+| sudo     | Become super user                      |
+| chmod    | Change Permission modifiers            |
+| chown    | Change ownership                       |
 
 
