@@ -4,5 +4,8 @@
 ## Do More
 
 ### I want you to go online and research how you change your PATH for your computer. Try to do it entirely from the CLI.
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   
+   `echo $PATH`
+   `export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/ local/bin:/usr/X11/bin:/usr/local/git/bin:/tmp/cmd`
+    
+    
