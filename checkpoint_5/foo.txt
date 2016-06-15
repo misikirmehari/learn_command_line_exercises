@@ -998,3 +998,5 @@ NOTICE: Practical Bronze Bag
 NOTICE: Aerodynamic Concrete Shirt
 ERROR: Synergistic Paper Pants
 ERROR: Heavy Duty Paper Table
+ This class is fun 
+Oh so much fun
