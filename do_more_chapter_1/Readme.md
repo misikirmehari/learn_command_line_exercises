@@ -10,4 +10,23 @@
 | Command  | What the command does                  |
 | -------- |:--------------------------------------:|
 | pwd      | print working directory                |
-| ...      | ...                                    |
+| hostname | my computer's network name             |
+| pushd | push directory|
+| popd| pop directory |
+|cp| copy a file or directory|
+|mv| move a file or directory|
+|less| page through a file|
+|cat | print through a file|
+|xargs| execute arguments|
+|find| find files |
+|grep | find things inside files|
+|man| read a manual page|
+|apropos| find what man page is appropriate|
+|env| look at your environment|
+|echo| print some arguments |
+|export| set a new environment variable|
+|exit| exit the shell|
+|sudo |become super user |
+|chmod|change permission modifiers|
+|chown|change ownership|
+
