@@ -3,6 +3,30 @@
 ## Do More
 
 ### Just like the last exercise, type this command 20 times and say it out loud.
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name 
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ `hostname`| computer's name
+ 
 
