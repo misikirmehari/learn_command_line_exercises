@@ -6,7 +6,9 @@
 
 ### Use the cp -r command to copy more directories with files in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+    Please use markdown formatting listing the command(s) you ran to accomplish this task
+    
+    
 
 ### Copy a file to your home directory or desktop.
 
