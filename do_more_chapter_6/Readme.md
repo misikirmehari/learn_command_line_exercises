@@ -4,12 +4,14 @@
 ## Do More
 
 ### On Unix, try the ls -lR command while you're in temp.
+  `ls -lr ` : list directories with permissions, links , owner, group , size , time and name
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
 
 ### Use cd to get to other directories on your computer then use ls to see what's in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `ls -A`
+   `ls -a`
+   `ls -d`
 
 ### Update your notebook with new questions. I know you probably have some, because I'm not covering everything about this command.
 
