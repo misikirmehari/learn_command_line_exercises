@@ -5,72 +5,74 @@ If you're not already, please go into the checkpoint_5 directory.
 
 Show me the lines in foo.txt that have "ERROR" in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-    
+   `grep "ERROR" foo.txt`
+   
 Show me the lines in foo.txt that have "Synergistic" in them.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `grep "Synergistic" foo.txt`
 
 What does the -i option to grep accomplish?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+  ` Ignores case`
 
 What option to ls tells it to output file size in human readable form?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+  `ls -h`
 
 What does the -r and -f options to rm do exactly?
-
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   
+   `-r: go recursively in each folder`
+   `-f: forces the command`
 
 What does the ifconfig command do?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `assign an address to a network interface and/or configure network interface parameters`
 
 What is your shell set to?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `printenv`
+   `SHELL=/bin/bash`
 
 What directory are you in (don't use pwd this time)?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `PWD=/Users/misikirmehari/workspace/davinci_coders_t2_2016/homework/learn_command_line_exercises/checkpoint_5`
 
 What is your home directory set to?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-
+   `HOME=/Users/misikirmehari
+   `
 Can you set your environment to have DEBUG set to true?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `export DEBUG="true"`
 
 Explain how you would change your PATH on your computer
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `vi ~/.bash_profile`
+   `Append export `
+   `Verify with echo $path`
+   
 
 Can you remove the debug environment variable?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `unset DEBUG`
     
 Why is it dangerous to run "rm -rf /". DO NOT RUN THIS COMMAND. Simply explain why it's a very bad idea.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `since / is root, the command will delete evertything and the system with corrupt`
 
 Can you put "This class is fun" into bar.txt?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `echo " This class is fun " >> foo.txt`
 
 Can you put "Oh so much fun" into foo.txt?
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+  `echo "Oh so much fun" >> foo.txt`
 
 Run find in the class directory, pipe the output to pbcopy and create a gist with the content.  Paste the Gist URL below.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
-
-    Gist URL:  _________
-
+  `Gist: https://gist.github.com/misikirmehari/aef6735dfb9cbba689ee90e65622ccbe#file-pbcopy`
 Please logout.
 
-    Please use markdown formatting listing the command(s) you ran to accomplish this
+   `exit`
 
 
